@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="rating">Rating: </string>\
+    <string name="overview">Overview:</string>
+    <string name="popularity">Popularity:</string>
+    <string name="date">Release Date: </string>
+</resources>
